@@ -1,0 +1,16 @@
+
+public class MySecondPractice {
+
+	public static void main(String[] args) {
+
+		//  String
+		
+//		String x="Hello India and world";
+//		String x1="1233";
+//		int a=10;
+//		int	b=20;		
+//		int z=a+b;
+//		System.out.println("Final value is::"+z);
+	}
+
+}

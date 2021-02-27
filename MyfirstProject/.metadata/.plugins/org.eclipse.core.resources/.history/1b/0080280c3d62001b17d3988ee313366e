@@ -1,0 +1,10 @@
+
+public class RinkiJavaSecondProject {
+
+	public static void main(String[] args) {
+// execute 1- 50 loop
+// between 1-50 should print 35,45,20,49
+	
+	}
+
+}

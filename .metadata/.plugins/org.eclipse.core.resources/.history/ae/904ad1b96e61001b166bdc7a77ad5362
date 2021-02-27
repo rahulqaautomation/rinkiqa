@@ -1,0 +1,11 @@
+
+public class MySecondPractice {
+
+	public static void main(String[] args) {
+		//   string
+		
+		String x="hello vidhi yadav";	
+		String y="12345";
+	}
+
+}

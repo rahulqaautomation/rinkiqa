@@ -1,0 +1,17 @@
+
+public class RinkiJavaSecondProject {
+
+	public static void main(String[] args) {
+
+		String x="Hello India and world"; 
+		int z=x.length();
+	 System.out.println(z);
+	
+		
+	
+		
+		
+		
+	}
+
+}

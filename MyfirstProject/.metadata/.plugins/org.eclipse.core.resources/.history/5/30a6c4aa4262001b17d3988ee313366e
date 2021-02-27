@@ -1,0 +1,27 @@
+
+public class RinkiJavaSecondProject {
+
+	public static void main(String[] args) {
+		
+	}
+
+	
+	public static void add1() {
+	int a=20;
+	int b=30;
+	int c=a+b;
+
+		
+	}
+	public static void add2() {
+	
+		int x=20;
+		int y=30;
+		int z=x+y;
+	}
+	public static void add3() {
+		int m=20;
+		int n=30;
+		int o=m+n;
+	}
+}
